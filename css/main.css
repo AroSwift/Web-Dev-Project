@@ -1,3 +1,23 @@
+/*
+  Color Palette:
+    Gray: #97887B
+    Peach: #FFCB9C
+    Orange: #FF7800
+    Burnt Orange: #E06900
+    Black: #000000
+*/
+
 body {
-    margin: auto;
+  margin: auto;
+  background-color: #FFCB9C;
+  background-image: url();
+}
+
+nav {
+  background-color: #97887B;
+  color: #FF7800;
+}
+
+.blblock{
+
 }
